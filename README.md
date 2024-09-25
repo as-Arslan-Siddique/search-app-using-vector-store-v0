@@ -19,7 +19,7 @@ This app allows you to add data to your Pinecone vector store and then search th
 1. Clone the repository:
 
    ```bash
-   git clone <your-repo-url>
+   git clone git@github.com:as-Arslan-Siddique/search-app-using-vector-store-v0.git
    ```
 
 2. Navigate into the project directory:
